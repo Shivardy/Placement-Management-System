@@ -1,0 +1,140 @@
+body{
+background-color:#F5F8FA;
+}
+
+nav,.navbar{
+background-color:#3097D1;
+clear:both;
+}
+
+.dropdown-menu li{
+list-style:none;
+}
+@media (max-width: 1030px) {
+.container{
+margin-top:50px;
+}
+
+}
+@media (max-width: 769px) {
+.container{
+margin-top:0px;
+}
+
+
+}
+.jumbotron{
+background-color:white !important;
+}
+.navbar-brand{
+color:white !important;
+}
+.navbar-nav a{
+color:#CBD4E0 !important;
+}
+.navbar-nav a:hover{
+color:white !important;
+}
+.dropdown-toggle{
+background-color:#3097D1 !important;
+}
+.dropdown-menu a,.dropdown-menu a:hover{
+color:#3097D1 !important;
+}
+.dropdown-menu li{
+ display: inline-block;
+
+}
+.collapsed .icon-bar{
+color:white !important;
+}
+.eventp{
+margin-left:50px;
+}
+.eventdate{
+margin-top:30px;
+}
+.date-label{
+width:38px;
+height:45px;
+text-align:center;
+border:1px solid lightblue;
+float:right;
+}
+.pager{
+background-color:white;
+}
+.eventnews i{
+float:left;font-size:35px;margin-right:20px;margin-top:10px;
+}
+.navbar-toggle:hover{
+background-color:white !important;
+}
+.navbar-toggle{
+background-color:#CBD4E0 !important;
+}
+.navbar-collapse  li{
+float:left;
+}
+.month{
+background-color:lightblue;
+padding:2px;
+}
+html, body {
+    height:100%;
+}
+.ntitle{
+margin-left:60px;
+margin-top:0px;
+}
+.newstitle i{
+float:left;font-size:50px;margin-right:40px;margin-top:10px;
+}
+.newstitle p{
+clear:both
+}
+.container{
+min-height:93.8vh;
+position:relative;
+}
+.footer{
+position:relative;
+bottom:0px;
+left:0px;right:0px;
+background-color:#3097D1;
+padding:10px 0;
+
+text-align:center;
+color:white;
+
+}
+.footer a{
+color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
